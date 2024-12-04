@@ -54,7 +54,7 @@ If the API is unavailable, the app falls back to using mock data defined in `foo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/food_recipe.git 
+   git clone https://github.com/Piyu-Pika/food_recipe.git 
    ```
 2. **Install dependencies:**
    ```bash
