@@ -40,6 +40,13 @@ The project uses the following key dependencies:
 * **http:** For making HTTP requests to the API.
 * **shared_preferences:** For storing user preferences (e.g., favorites).
 
+##Snapshots
+
+![Screenshot_20241204-115353](https://github.com/user-attachments/assets/223103f2-0257-4e36-9775-5fd1cd061fbe)
+![Screenshot_20241204-115350](https://github.com/user-attachments/assets/3818bf70-9389-4bdf-8204-b12d25cc392b)
+![Screenshot_20241204-115344](https://github.com/user-attachments/assets/ffcff00a-b264-4ea7-b6ae-99c9d063f719)
+![Screenshot_20241204-115336](https://github.com/user-attachments/assets/1e3f1838-5efc-42a1-8c29-0c8182c3272b)
+
 ## Data Source
 
 The app fetches food recipe data from the following API:
