@@ -42,11 +42,13 @@ The project uses the following key dependencies:
 
 ##Snapshots
 
-![Screenshot_20241204-115353](https://github.com/user-attachments/assets/223103f2-0257-4e36-9775-5fd1cd061fbe)
-![Screenshot_20241204-115350](https://github.com/user-attachments/assets/3818bf70-9389-4bdf-8204-b12d25cc392b)
-![Screenshot_20241204-115344](https://github.com/user-attachments/assets/ffcff00a-b264-4ea7-b6ae-99c9d063f719)
-![Screenshot_20241204-115336](https://github.com/user-attachments/assets/1e3f1838-5efc-42a1-8c29-0c8182c3272b)
+## Snapshots
 
+<img src="https://github.com/user-attachments/assets/1e3f1838-5efc-42a1-8c29-0c8182c3272b" width="200" height="400"> <img src="https://github.com/user-attachments/assets/ffcff00a-b264-4ea7-b6ae-99c9d063f719" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/223103f2-0257-4e36-9775-5fd1cd061fbe" width="200" height="400"> <img src="https://github.com/user-attachments/assets/3818bf70-9389-4bdf-8204-b12d25cc392b" width="200" height="400">
+
+
+ 
 ## Data Source
 
 The app fetches food recipe data from the following API:
